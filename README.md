@@ -8,7 +8,7 @@ Tenho vasta experiência prática, com 200+ projetos executados: modelos de plan
 
 Assine minha newsletter:
 
-![](https://arnaldogunzi.substack.com/)
+![https://arnaldogunzi.substack.com/](https://arnaldogunzi.substack.com/)
 
 Veja o meu blog:
-![](https://ideiasesquecidas.files.wordpress.com/2020/04/fotopomi.jpg?w=597)
+![https://ideiasesquecidas.files.wordpress.com](https://ideiasesquecidas.files.wordpress.com/2020/04/fotopomi.jpg?w=597)
