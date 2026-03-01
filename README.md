@@ -42,5 +42,7 @@ LinkedIn:
 Assine minha newsletter:
 [https://arnaldogunzi.substack.com/](https://arnaldogunzi.substack.com/)
 
-Veja o meu blog:
-[https://ideiasesquecidas.files.wordpress.com](https://ideiasesquecidas.files.wordpress.com)
+
+Blog pessoal:
+[https://ideiasesquecidas.com](https://ideiasesquecidas.com)
+
