@@ -33,10 +33,11 @@ Projetos incluem:
 
 Técnicas envolvem machine learning, redes neurais profundas, predictive analytics, simulação de eventos discretos. Ferramentas: Python, VBA, Excel, AIMMS, Gurobi, Cplex, Pyomo, Simpy, R, Java, TensorFlow, Streamlit, Qiskit, SQL, PowerBI.
 
+Alguns hobbies: ler livros, andar, pensar, e escrever muito (vide links abaixo):
+
 O Compêndio de Ideias do Prof. Arnaldo: ![https://asgunzi.github.io/Compendium/
 ](https://asgunzi.github.io/Compendium/)
 
-Blog pessoal:
 
 ![](https://ideiasesquecidas.files.wordpress.com/2020/04/fotopomi.jpg?w=597)
 
